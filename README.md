@@ -1,2 +1,2 @@
-# My-first-project
+# My-projects
 Exploratory data analysis of covid deaths and vaccinations
